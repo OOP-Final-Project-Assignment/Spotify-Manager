@@ -6,8 +6,6 @@
 ## 📌 Project Overview
 **Spotify Manager** is a comprehensive desktop application built with Java Swing and JDBC. Designed as the final project for the Object-Oriented Programming course, this application allows administrators and users to efficiently manage a massive dataset of Spotify tracks, artists, albums, and genres.
 
-This is a Java Desktop application using JavaFX, MySQL, 
-
 ### 🔑 Key Features
 * **Authentication & Authorization:** Secure login/registration with SHA-256 password hashing. Role-Based Access Control (Admin vs. User).
 * **Advanced CRUD Operations:** Manage tracks and artists with dynamic pagination, search, and filtering.
